@@ -16,13 +16,13 @@ public class ListsPractice {
 		
 		li.add(10);
 		li.add(10);
-		li.add(20);//particularly oka value pettali ante add
+		li.add(20);
 		li.add(10.5);
 		li.add("FLM");
 		li.add('A');
 		li.add(st);		
 		System.out.println(li);
-		System.out.println(li.get(1)); //particularly oka index value chudali ante get
+		System.out.println(li.get(1)); 
 		//heterogeneous it accepts all data types
 		
 		Student student = (Student) li.get(6);
