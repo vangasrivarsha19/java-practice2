@@ -12,7 +12,7 @@ public class Test {
 		
 		
 	}
-	private Test(int a , int b) { //(only can access in this class or package cannot access in other class or package)
+	private Test(int a , int b) { 
 		
 		this.a = a;
 		this.b = b;
