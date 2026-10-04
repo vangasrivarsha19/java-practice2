@@ -9,7 +9,7 @@ public static void main(String[] args) {
 		Student st4 = new Student (1, "SRIVARSHA");
 		
 		
-		boolean isEqual = st.equals(st2);//this method is not there in parent class but also able to call with the object class which is a default parent
+		boolean isEqual = st.equals(st2);
 		System.out.println(isEqual);
 		
 		boolean isEqual2 = st2.equals(st3);
