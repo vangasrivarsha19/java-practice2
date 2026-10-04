@@ -13,14 +13,13 @@ public class MapsPractice {
 		
 		map.put(1,"Varsha");
 		map.put(2, "Manjula");
-		map.put(3, "Akshi");          //we cannot predict the order
+		map.put(3, "Akshi");        
 		map.put("Sri", 12);
-		map.put('A', 65);            //its giving warning because using all data types is not safe even though map allows heterogeneous
+		map.put('A', 65);            
 		map.put(4, "Manjula");
 		map.put(3, "Reddy");
 		map.put(1, 'A');
 		map.put(null, "Vanga");
-		map.put(null, "Surya");
 		map.put(null, null);
 		map.put(5, null);*/
 		
